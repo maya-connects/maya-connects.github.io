@@ -16,3 +16,8 @@
 .font2 {
     font-family: 'Kaushan Script', cursive !important;
 }
+.pspace {
+    font-size: 13px;
+    line-height: 4rem;
+    word-spacing: 0.5rem;
+}
